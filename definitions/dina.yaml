@@ -445,4 +445,4 @@ x-ibm-configuration:
   assembly:
     execute:
       - invoke:
-          target-url: $(runtime-url)$(request.path)$(request.search)
+          target-url: 'https://api.us.apiconnect.ibmcloud.com/dfatkulbayanova-dev/sb'
