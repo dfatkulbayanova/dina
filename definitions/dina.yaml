@@ -445,4 +445,4 @@ x-ibm-configuration:
   assembly:
     execute:
       - invoke:
-          target-url: 'https://api.us.apiconnect.ibmcloud.com/dfatkulbayanova-dev/sb'
+          target-url: 'apic-catalog://us.apiconnect.ibmcloud.com/orgs/dfatkulbayanova-dev/catalogs/sb'
